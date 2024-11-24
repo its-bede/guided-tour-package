@@ -2,7 +2,7 @@
 
 A simple Stimulus controller that enables you to show a guided tour overlay on your website. It requires Bootstrap to be installed and have Popover loaded.
 
-This package has a corresponding ruby gem. See [guided-tour](https://github.com/its-bede/guided_tour) repo.
+This package has a corresponding ruby gem. See [guided_tour](https://github.com/its-bede/guided_tour) repo.
 
 ## Installation
 
