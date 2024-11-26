@@ -1,6 +1,6 @@
 {
   "name": "@itsbede/guided-tour",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Stimulus controller that enables you to show a guided tour overlay on your website.",
   "main": "dist/guided_tour_controller.js",
   "type": "module",

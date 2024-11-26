@@ -22,10 +22,10 @@ application.register('guided-tour', GuidedTourController)
 <!-- modify to your gusto -->
 <div class="guided-tour--wrapper"
      data-controller="guided-tour--tour"
-     data-guided-tour__tour-next-btn-text-value="Next"
-     data-guided-tour__tour-prev-btn-text-value="Previous"
-     data-guided-tour__tour-done-btn-text-value="Done"
-     data-guided-tour__tour-step-line-text-value="Step">
+     data-guided-tour-next-btn-text-value="Next"
+     data-guided-tour-prev-btn-text-value="Previous"
+     data-guided-tour-done-btn-text-value="Done"
+     data-guided-tour-step-line-text-value="Step">
 
   <div class="guided-tour--starter-btn-wrapper">
     <button type="button" class="btn btn-primary ms-auto" id="guidedTourStarterBtn">
